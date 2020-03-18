@@ -1,3 +1,4 @@
+# see https://arxiv.org/pdf/2003.07573.pdf
 import math
 import torch
 import torch.nn.functional as F
